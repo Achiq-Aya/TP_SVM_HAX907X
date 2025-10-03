@@ -5,13 +5,14 @@
 **Université de Montpellier**
 
 ## Auteur
-Achiq Aya
+Achiq Aya - M2 SSD BIOSTAT
 
 ## Description
 
 Ce projet contient le code et le rapport du TP sur les Support Vector Machines (SVM). On explore différents aspects des SVM : classification sur Iris, reconnaissance de visages, impact des variables de nuisance et réduction de dimension par PCA.
 
 ## Structure du projet
+```
 TP_SVM_HAX907X/
 ├── README.md              # Ce fichier
 ├── .gitignore
@@ -25,6 +26,7 @@ TP_SVM_HAX907X/
 ├── svm_source.py      # Fonctions utilitaires
 ├── svm_iris.py        # Q1-Q2: Dataset Iris
 └── svm_face.py        # Q4-Q6: Classification de visages
+```
 
 ## Environnement Python
 
